@@ -1,0 +1,173 @@
+*{
+    margin: 0px;
+}
+
+.header{
+    background: url("./figma-pic/donation1.jpg"),linear-gradient(rgb(176, 164, 164),black);
+    background-repeat: no-repeat;
+    background-position:center ;
+    background-blend-mode:overlay;
+    background-size: contain;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+justify-content: center;
+}
+.header-heading{
+    color: pink;
+    text-align:center ;
+    font-size:65px ;
+    font-weight:700 ;
+
+}
+.lorem{
+    color: rgb(117, 186, 176);
+    font-weight:400 ;
+    font-size:18px ;
+}
+.button1{
+    margin-top: 20px;
+    padding: 15px;
+    border: none;
+    margin-top: 20px;
+    color: rgb(117, 186, 176) ;
+    border-radius: 7px;
+    background-color: pink;
+}
+button:hover{
+
+background-color: blueviolet;}
+.tk-container{
+display: flex;
+
+
+
+gap: 40px;
+
+justify-content: space-between;
+width: 50%;
+margin:20px  auto;
+align-items: center;
+}
+.donate{
+    color: black;
+    text-align:center;
+    font-size: 45px;
+    font-weight: bold;
+    margin-top: 30px;
+}
+.lorem2{
+    font-weight:400 ;
+    font-size:18px ;
+    color: black;
+    margin-top: 20px;
+    text-align: center;
+}
+.tk{
+    border-radius: 5px;
+    padding: 40px 20px;
+    background-color: #FAFAFA;
+    font-size:30x ;
+    font-weight: 700;
+}
+.tk-200{
+    color: #FF5959;
+    text-align: center;
+    border: 2px solid #FF5959;
+    background: #FEE;
+padding: 40px 20px;
+border-radius: 5px;
+}
+.other-taka{
+    color: #B3B3B3;
+text-align: center;
+font-size: 18px;
+font-weight: 400;
+width: 50%;
+align-items: center;
+justify-content: space-between;
+margin: 20px auto;
+}
+.donate-plan{
+    color: #121212;
+text-align: center;
+font-size: 45px;
+font-weight: 700;
+margin-bottom: 20px;
+margin-top: 130px;
+}
+.lorem3{
+    color: #707070;
+text-align: center;
+font-size: 18px;
+font-weight: 400;
+
+}
+.card-head{
+    color: #121212; 
+    font-weight:600 ;
+    font-size: 24px;
+    margin-top:  31px; 
+    margin-bottom:16px ;
+}
+.card-container{
+    display: flex;
+    padding:20px 20px ;
+    width:60% ;
+    align-items: center;
+margin: auto;
+gap:24px ;
+}
+.shelter{
+    border-radius: 5px;
+background: rgba(255, 89, 89, 0.10);
+padding:50px 20px ;
+}
+.food{
+    border-radius: 5px;
+    background: rgba(79, 157, 166, 0.10);
+    padding:50px 20px ;
+}
+.education{
+    border-radius: 5px;
+background: #FFF4D6;
+padding:50px 20px ;
+}
+.donation{
+    color: #121212;
+    font-size: 45px;
+    font-weight: 700;
+    text-align:center;
+    
+}
+.information1{
+    display: flex;
+align-items: center;
+margin: auto;
+gap:24px ;
+width:60%;
+
+margin-top: 182px;
+
+}
+.img1{
+    width: 100%;
+}
+.depend1{
+    width:50% ;
+}
+.information1-img{
+    width:50% ;
+}
+.p2{
+    margin-top:20px ;
+    color:#707070; 
+    font-size: 18px;
+    font-weight: 400;
+}
+.p1{
+    color:#707070; 
+    font-size: 18px;
+    font-weight: 400;
+}
